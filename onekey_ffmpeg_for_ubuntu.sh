@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#ubuntu一键安装ffmpeg脚本
+#一键安装ffmpeg脚本
 
 DEFAULT_HOME=/usr/local/ffmpeg
 
